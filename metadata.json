@@ -1,0 +1,5 @@
+{
+  "name": "Ministry of Transport Library",
+  "description": "A clean, responsive Library Management System for the Ministry of Transport. It allows staff to manage book records and users, while employees can search, view, and request books.",
+  "requestFramePermissions": []
+}
